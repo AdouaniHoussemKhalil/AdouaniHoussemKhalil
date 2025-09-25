@@ -3,7 +3,6 @@
 
 - 🔭Currently working as a Full Stack .NET / React Consultant. **Cadhoc Papier upCoop**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
